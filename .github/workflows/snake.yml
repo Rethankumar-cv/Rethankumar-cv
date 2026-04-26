@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: arnav7777
+          github_user_name: Rethankumar-cv
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake.gif
