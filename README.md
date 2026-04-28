@@ -55,7 +55,7 @@ Building scalable systems, learning DevOps, and turning ideas into deployable so
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rethankumar-cv/Rethankumar-cv/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YRethankumar-cv/Rethankumar-cv/output/github-snake-light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rethankumar-cv/Rethankumar-cv/output/github-snake-light.svg">
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/Rethankumar-cv/Rethankumar-cv/output/github-snake-light.svg">
   </picture>
 </p>
